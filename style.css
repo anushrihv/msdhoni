@@ -1,0 +1,60 @@
+body{
+  width:100%;
+  height:100%;
+  background-color: lightgray;
+  }
+
+.title{
+  width:1400px;
+  background-color: black;
+  height:40px;
+}
+
+title-name{
+  background-color: white;
+  width:1000px;
+  height:30px;
+  }
+  ul{
+    display:flex;
+  }
+  .box{
+    box-sizing: border-box;
+    display:flex;
+    margin: 100px 200px;
+    width:870px;
+
+  }
+  p{
+padding:2px 2px;
+
+  }
+  .desc{
+
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: white;
+  }
+  button{
+    background-color: skyblue;
+    border-radius: 5px;
+
+  }
+  em{
+    font-weight: bold;
+  }
+  .outer-box{
+    background-color: black;
+    height:50px;
+    width:100%;
+    margin: auto;
+    padding:20px;
+
+
+  }
+  .inner-box{
+    background-color: white;
+
+
+    height:35px;
+    width:900px;
+  }
