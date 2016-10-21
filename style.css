@@ -51,10 +51,8 @@ padding:2px 2px;
 
 
   }
-  .inner-box{
-    background-color: white;
-
-
+  
+  input{
     height:35px;
     width:900px;
   }
